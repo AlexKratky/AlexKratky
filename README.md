@@ -1,11 +1,9 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C357%20hrs%2036%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-174%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 20 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 186.8 kB Used in GitHub's Storage 
  > 
@@ -68,7 +66,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
 <!--
 **AlexKratky/AlexKratky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
