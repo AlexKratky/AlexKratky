@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C360%20hrs%202%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-174%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -42,11 +44,11 @@ Sunday       6 commits      █████████████░░░░�
 ⌚︎ Time Zone: Europe/Prague
 
 💬 Programming Languages: 
-PHP                      33 mins             █████████████████████████   100.0% 
+PHP                      2 hrs 25 mins       █████████████████████████   100.0% 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.0%
+VS Code                  2 hrs 25 mins       █████████████████████████   100.0%
 
 ```
 
