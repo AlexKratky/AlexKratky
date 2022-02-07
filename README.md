@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C384%20hrs%2038%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-174%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -42,14 +44,14 @@ Sunday       6 commits      █████████████░░░░�
 ⌚︎ Time Zone: Europe/Prague
 
 💬 Programming Languages: 
-PHP                      4 hrs 10 mins       ██████████████████████░░░   90.54% 
+PHP                      4 hrs 10 mins       ██████████████████████░░░   90.39% 
 JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.08% 
 Blade Template           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.29% 
 JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
 
 🔥 Editors: 
-VS Code                  4 hrs 36 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 37 mins       █████████████████████████   100.0%
 
 ```
 
@@ -66,7 +68,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/02/2022 00:27:14 UTC
+ Last Updated on 07/02/2022 01:38:16 UTC
 <!--END_SECTION:waka-->
 <!--
 **AlexKratky/AlexKratky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
