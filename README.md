@@ -1,17 +1,17 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C438%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C444%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-175%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1 Contributions in the Year 2022
+> 🏆 2 Contributions in the Year 2022
  > 
-> 📦 187.2 kB Used in GitHub's Storage 
+> 📦 187.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 38 Public Repositories 
+> 📜 39 Public Repositories 
  > 
 > 🔑 41 Private Repositories  
  > 
@@ -44,14 +44,14 @@ Sunday       15 commits     █████████████████�
 ⌚︎ Time Zone: Europe/Prague
 
 💬 Programming Languages: 
-PHP                      5 hrs 54 mins       ███████████░░░░░░░░░░░░░░   44.36% 
-TypeScript               4 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   36.18% 
-JavaScript               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   7.87% 
-Blade Template           25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.25% 
-Objective-C              20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.51%
+PHP                      12 hrs 30 mins      ██████████████░░░░░░░░░░░   58.95% 
+TypeScript               4 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.79% 
+JavaScript               1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.03% 
+Markdown                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.79% 
+Blade Template           34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.72%
 
 🔥 Editors: 
-VS Code                  13 hrs 18 mins      █████████████████████████   100.0%
+VS Code                  21 hrs 13 mins      █████████████████████████   100.0%
 
 ```
 
@@ -68,7 +68,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/03/2022 02:00:39 UTC
+ Last Updated on 16/03/2022 02:07:20 UTC
 <!--END_SECTION:waka-->
 <!--
 **AlexKratky/AlexKratky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
