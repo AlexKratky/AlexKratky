@@ -1,19 +1,17 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C513%20hrs%2018%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-175%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 12 Contributions in the Year 2022
  > 
-> 📦 187.8 kB Used in GitHub's Storage 
+> 📦 187.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 40 Public Repositories 
  > 
-> 🔑 42 Private Repositories  
+> 🔑 43 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -58,17 +56,17 @@ VS Code                  5 hrs 36 mins       ███████████�
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      29 repos            ██████████████░░░░░░░░░░░   55.77% 
-JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.31% 
-Vue                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.46% 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92%
+PHP                      29 repos            █████████████░░░░░░░░░░░░   54.72% 
+JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.98% 
+Vue                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.21% 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.43% 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89%
 
 ```
 
 
 
- Last Updated on 13/04/2022 02:30:18 UTC
+ Last Updated on 14/04/2022 00:43:04 UTC
 <!--END_SECTION:waka-->
 <!--
 **AlexKratky/AlexKratky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
