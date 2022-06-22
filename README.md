@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C583%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-175%20Thousand%20lines%20of%20code-blue)
 
@@ -57,14 +57,14 @@ No Activity Tracked This Week
 PHP                      30 repos            █████████████░░░░░░░░░░░░   54.55% 
 JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.36% 
 Vue                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.64%
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.91% 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82%
 
 ```
 
 
 
- Last Updated on 21/06/2022 02:54:33 UTC
+ Last Updated on 22/06/2022 00:46:31 UTC
 <!--END_SECTION:waka-->
 <!--
 **AlexKratky/AlexKratky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
