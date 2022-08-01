@@ -5,13 +5,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 25 Contributions in the Year 2022
+> 🏆 26 Contributions in the Year 2022
  > 
 > 📦 187.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 42 Public Repositories 
+> 📜 43 Public Repositories 
  > 
 > 🔑 44 Private Repositories  
  > 
@@ -54,17 +54,17 @@ No Activity Tracked This Week
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      30 repos            █████████████░░░░░░░░░░░░   53.57% 
-JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
-Vue                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
+PHP                      30 repos            █████████████░░░░░░░░░░░░   52.63% 
+JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
+Vue                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.28% 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
 
 ```
 
 
 
- Last Updated on 31/07/2022 03:09:41 UTC
+ Last Updated on 01/08/2022 03:22:41 UTC
 <!--END_SECTION:waka-->
 <!--
 **AlexKratky/AlexKratky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
