@@ -54,17 +54,17 @@ No Activity Tracked This Week
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      32 repos            █████████████░░░░░░░░░░░░   52.46% 
-JavaScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.75% 
-Vue                      9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.75% 
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.84% 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.92%
+PHP                      28 repos            ████████████░░░░░░░░░░░░░   49.12% 
+JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
+Vue                      9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
 
 ```
 
 
 
- Last Updated on 18/10/2022 03:37:26 UTC
+ Last Updated on 19/10/2022 01:00:29 UTC
 <!--END_SECTION:waka-->
 <!--
 **AlexKratky/AlexKratky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
