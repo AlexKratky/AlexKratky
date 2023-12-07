@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C583%20hrs%2058%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -13,6 +15,39 @@
  > 
 > 🔑 47 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                15027 commits       █████████░░░░░░░░░░░░░░░░   36.11 % 
+🌆 Daytime                20112 commits       ████████████░░░░░░░░░░░░░   48.33 % 
+🌃 Evening                6458 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+🌙 Night                  20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   8431 commits        █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+Tuesday                  7574 commits        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+Wednesday                8051 commits        █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Thursday                 7870 commits        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Friday                   6886 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Saturday                 1329 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Sunday                   1476 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Prague
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -26,7 +61,7 @@ TypeScript               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/12/2023 00:37:51 UTC
+ Last Updated on 07/12/2023 01:45:05 UTC
 <!--END_SECTION:waka-->
 <!--
 **AlexKratky/AlexKratky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
