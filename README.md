@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C584%20hrs%203%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 399.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 40 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -13,39 +13,6 @@
  > 
 > 🔑 58 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                31764 commits       █████████░░░░░░░░░░░░░░░░   34.75 % 
-🌆 Daytime                47925 commits       █████████████░░░░░░░░░░░░   52.43 % 
-🌃 Evening                11702 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-🌙 Night                  21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   18253 commits       █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-Tuesday                  15607 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Wednesday                19498 commits       █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
-Thursday                 17694 commits       █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-Friday                   14835 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Saturday                 2565 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Sunday                   2960 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Prague
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in PHP** 
 
 ```text
@@ -59,7 +26,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2025 02:44:15 UTC
+ Last Updated on 22/05/2025 01:05:59 UTC
 <!--END_SECTION:waka-->
 <!--
 **AlexKratky/AlexKratky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
